@@ -152,8 +152,8 @@ This project is licensed under the **MIT License**. Feel free to modify and use 
 ## 📢 Support & Contact
 💬 Have questions? Open an [issue](https://github.com/eddieir/sleep-apnea-detection/issues) or reach out!  
 
-📧 Email: your.email@example.com  
-🌟 LinkedIn: [Your Profile]([https://linkedin.com/in/](https://www.linkedin.com/in/peyman-iravani-3914504b/))  
+📧 Email: peyman.iravani@gmail.com  
+🌟 LinkedIn: [Peyman Iravani]([https://linkedin.com/in/](https://www.linkedin.com/in/peyman-iravani-3914504b/))  
 
 ---
 
