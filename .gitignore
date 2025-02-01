@@ -1,0 +1,30 @@
+# Ignore Python virtual environment
+venv/
+ENV/
+env/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore datasets and large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.h5  # Model file if generated
+
+# Ignore extracted datasets
+sleep_edf_data/
+sleep_data.csv
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+.DS_Store  # macOS system file
+Thumbs.db  # Windows system file
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
